@@ -1,6 +1,6 @@
 # Brain Boost
 
-This repository is a collection of coding problems and solutions created for learning, practice, and revision.  
+This repository is a collection of coding problems and solutions I tried for learning, practice, and revision.  
 It is intended to help improve problem-solving skills, coding consistency, and understanding of core programming concepts.
 
 ---

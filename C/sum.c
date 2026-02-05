@@ -7,5 +7,7 @@ int main(){
 
      int total = a+b;
 
-     printf ("Sum of numbers: " + total)
+     printf ("Sum of numbers: " , total)
+
+     return 0;
 }

@@ -1,0 +1,56 @@
+body{
+font-family: Arial;
+margin: 20px;
+}
+
+h1{
+border:2px solid black;
+display:inline-block;
+padding:5px;
+}
+
+.image-section img{
+width:350px;
+border:2px solid black;
+}
+
+.tourism-link{
+display:block;
+margin-top:5px;
+}
+
+.packing{
+border:2px solid black;
+width:450px;
+padding:10px;
+margin-top:20px;
+}
+
+.cost{
+border:2px solid black;
+width:450px;
+padding:10px;
+margin-top:20px;
+}
+
+table{
+border-collapse: collapse;
+}
+
+table, th, td{
+border:1px solid black;
+padding:8px;
+}
+
+.traveler{
+border:2px solid black;
+width:300px;
+padding:10px;
+margin-top:20px;
+}
+
+footer{
+border-top:2px solid black;
+margin-top:20px;
+padding-top:5px;
+}
